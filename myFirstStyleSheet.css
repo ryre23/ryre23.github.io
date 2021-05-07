@@ -1,0 +1,51 @@
+img{
+	width : 200px;
+}
+
+h1 {
+	padding:50px;
+	text-align: center;
+}
+
+
+
+ body {
+	background-color: Cyan;
+}
+
+td {
+	font-size:45px;
+	text-align: center;
+	padding: 30px;
+}
+
+th {
+	font-size: 60px; 
+}
+
+a:visited{
+	color:White;
+}
+
+#recipeBackground {
+	background-color:LightGreen;
+}
+
+#recipeImg {
+	width: 400px;
+	height:250px;
+	margin:15px;
+}
+
+
+#ingr{
+	color:red;
+}
+
+#inst{
+	color:blue;
+}
+
+#firstul{
+	color:green;
+}

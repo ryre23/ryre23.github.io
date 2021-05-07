@@ -1,0 +1,25 @@
+h1 {
+	text-align: center;
+	color: gold
+}
+
+h2 {
+	text-align: center;
+	color: cornflowerblue;
+}
+
+td {
+	font-size: 45px;
+	color: white
+}
+
+a:visited{
+	color:orangered;
+}
+
+body {
+	background-image: url("thediamond.jpg");
+	background-repeat: no-repeat;
+	background-size: 1550px;
+
+}
