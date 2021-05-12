@@ -1,0 +1,30 @@
+td{
+	font-family:copperplate;
+	font-style:bold;
+	font-size:30px;
+	color:saddlebrown;
+}
+
+body{
+	background-color: yellowgreen;
+}
+
+#DicksStore{
+	border:5px solid;
+	border-color: saddlebrown;
+}
+
+#BetterBaseballStore{
+	border:5px solid;
+	border-color: saddlebrown;
+}
+
+#PlayItAgainStore{
+	border:5px solid;
+	border-color: saddlebrown;
+}
+
+#JonquilStore{
+	border:5px solid;
+	border-color: saddlebrown;
+}
